@@ -1,12 +1,13 @@
-const jsonServer = require('json-server');
+const jsonServer = require(`json-server`);
 const server = jsonServer.create();
-const router = jsonServer.router('db.jason');
-const middleswares = jsonServer.defaults();
+const router = jsonServer.router('db.json');
+const middlewares = jsonServer.defaults();
 
 const port = process.env.PORT || 8080;
 
-server.use(middleswares);
+server.use(middlewares);
 server.use(router);
 server.listen(port, () => {
-    console.log(`JSON Server está funcionando na porta ${port}`);
+    //eslint-disable-next-line no console
+    console.log(`JSON-Server está funcionando na porta ${port}`);
 });
