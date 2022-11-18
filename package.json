@@ -1,0 +1,8 @@
+{
+  "name": "modulotest3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JGuilheerm/modulotest3.git",
+  "author": "JGuilheerm <joaoguilheerm19@gmail.com>",
+  "license": "MIT"
+}

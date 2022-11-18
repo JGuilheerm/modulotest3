@@ -1,0 +1,107 @@
+{
+    "disciplinas": [
+      {
+        "carga horária": "300h",
+        "nome": "francês",
+        "nível": "avançado",
+        "curso": "remoto",
+        "id": 1
+      },
+      {
+        "carga horária": "300h",
+        "nome": "inglês",
+        "nível": "empresarial",
+        "curso": "remoto",
+        "id": 2
+      },
+      {
+        "carga horária": "600h",
+        "nome": "russo",
+        "nível": "avançado",
+        "curso": "remoto",
+        "id": 3
+      },
+      {
+        "carga horária": "600h",
+        "nome": "mandarim",
+        "nível": "empresarial",
+        "curso": "híbrido",
+        "id": 4
+      },
+      {
+        "carga horária": "100h",
+        "nome": "espanhol",
+        "nível": "remoto",
+        "id": 5
+      }
+    ],
+    "professores": [
+      {
+        "id": 1,
+        "nome": "Eduardo David Travassos",
+        "cpf": "936.305.957-07",
+        "email": "davidedu@gmail.com.br",
+        "telefone": "5511988888888"
+      },
+      {
+        "id": 2,
+        "nome": "Rael dos Santos",
+        "cnpj": "12.652.984/0001-07",
+        "email": "priscilainfo@hotmail.com",
+        "telefone": "21679861720"
+      },
+      {
+        "id": 3,
+        "nome": "João Lucca Mello",
+        "cpf": "556.244.553-05",
+        "email": "luccajoao@gmindustria.com.br",
+        "telefone": "5521985757969"
+      },
+      {
+        "id": 4,
+        "nome": "Matheus Guilherme Barbosa",
+        "cpf": "278.084.207-51",
+        "email": "lhermemath@gmail.com.br",
+        "telefone": "559829034051"
+      },
+      {
+        "nome": "Marllon Martins Silva",
+        "cpf": "429.006.579-11",
+        "email": "mmllonsilva@wikimetal.com.br",
+        "telefone": "5548998389962",
+        "id": 5
+      }
+    ],
+    "turmas": [
+      {
+        "id": 1,
+        "classificação": "C1",
+        "disciplinaId": "1",
+        "turno": "manhã"
+      },
+      {
+        "id": 2,
+        "classificação": "B2",
+        "disciplinaId": "2",
+        "turno": "tarde"
+      },
+      {
+        "classificação": "C1",
+        "disciplinaId": "3",
+        "turno": "manhã",
+        "id": 3
+      },
+      {
+        "classificação": "B2",
+        "disciplinaId": "4",
+        "turno": "manhã",
+        "id": 4
+      },
+      {
+        "classificação": "A1",
+        "disciplinaId": "5",
+        "turno": "manhã",
+        "id": 5
+      }
+    ]
+  }
