@@ -35,6 +35,57 @@
         "id": 5
       }
     ],
+    
+    "comentarios": [
+  {
+    "postId": 1,
+    "id": 1,
+    "name": "André Chato",
+    "email": "fazoL@pqéhoradjairembora.com",
+    "body": "Meu bem.. é horrivel isso! Horrivel. Horrivel. Horrivel. Horrivel.. HO-RRO-RO-SO. Um espanto. Me faz MAL."
+  },
+  {
+    "postId": 1,
+    "id": 2,
+    "name": "André Chatisse em Tokyo",
+    "email": "AndreShippuden@dattebayo.tky",
+    "body": "Além de pessimo cozinheiro, é um pessimo programador. Te falta ódio!"
+  },
+  {
+    "postId": 1,
+    "id": 3,
+    "name": "Mais André e Mais Chato",
+    "email": "maismais2@chato.com",
+    "body": "Jamais eu comeria isso daqui. JA-MAIS eu comeria isso daqui. JAMAIS eu comeria isso daqui. Jamais eu comeria isso daqui.. Jamais! JAMAIS! "
+  },
+  {
+    "postId": 1,
+    "id": 4,
+    "name": "Andréchatisse in Rio",
+    "email": "chtss@rio.com",
+    "body": "Não sou capaz de opinar."
+  },
+  {
+    "postId": 1,
+    "id": 5,
+    "name": "Rafiki Mais Uma Vez",
+    "email": "marcosrafique@sempresegundo.com",
+    "body": "Dispenso comentarios.."
+  },
+  {
+    "postId": 2,
+    "id": 6,
+    "name": "André a Chatisse Agora é Outra",
+    "email": "lylalover@chatolandia.com",
+    "body": "Tá tudo estragado, tá tudo mofado.. ta tudo f#dido! Vai ser jogado no lixo!"
+  },
+  {
+    "postId": 2,
+    "id": 7,
+    "name": "Inominável",
+    "email": "inmnvl@latest.com",
+    "body": "Odiei!!! 5 Estrelas"
+  }
     "professores": [
       {
         "id": 1,
